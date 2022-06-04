@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/gitNitroTitan/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gitNitroTitan&repo=convoychat" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gitNitroTitan&repo=github-readme-stats)](https://github.com/gitNitroTitan/github-readme-stats)
+
