@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: Cello is my favorite muscial instrument to listen to, but I have no clue how to play!
 -->
-![gitNitroTitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitNitroTitan&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitNitroTitan&layout=compact&them=tokyonight)](https://github.com/gitNitroTitan/github-readme-stats)
+![gitNitroTitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitNitroTitan&show_icons=true&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitNitroTitan&layout=compact&theme=blue-green)](https://github.com/gitNitroTitan/github-readme-stats)
 
