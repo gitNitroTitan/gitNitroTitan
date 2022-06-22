@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on I am constantly coding new projects for my program at NSS in GitHub. I will be working on more with APIs and promises to get a better handle on this. 
+- 🔭 I am constantly coding new projects for my program at NSS in GitHub. I will be working on more with APIs and promises to get a better handle on this. 
 
-- 🌱 I’m currently learning Web Development, Software Engineering 
+- 🌱 I’m currently learning React. I have a great grasp of HTML, CSS, and JavaScript. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
