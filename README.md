@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://a.storyblok.com/f/53624/4096x1280/1d0bd6949f/acropolis-athens-greece-parthenon-temple-600w-753910417.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >!</h1>
