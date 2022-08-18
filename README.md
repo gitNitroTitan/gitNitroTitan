@@ -17,7 +17,7 @@
 
 - 🔭 I am constantly coding new projects for my program at NSS in GitHub. I will be working on more with APIs and promises to get a better handle on this. 
 
-- 🌱 I’m currently learning React.js, Next.js, and Azure more in depth. I have a great grasp of HTML, CSS, JavaScript, Google Firebase storage and authentication, GitHub Team Workflow, deployment utilizing Netlify, using webpack, working with Node.js modules, modularization of code, Bootstrap 5, React Boostrap and learning more by the week! 
+- 🌱 I’m currently learning React.js, Next.js, and Azure more in depth. I have a great grasp of HTML, CSS, JavaScript, Google Firebase storage and authentication, GitHub Team Workflow, deployment utilizing Netlify, using webpack, modularization of code, Bootstrap 5, React Boostrap and learning more by the week! 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
@@ -33,7 +33,8 @@
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<h3> React App: Tic Tac Toe</h3>
+<h3>Group project: Topic Thunder!</h3>
+<h1>It's capstone season for my front end cohort at NSS! More to come on my app Nomadicity!</h1>
 
 <a href="https://github.com/nss-evening-cohort-19/pos-system-team-1">
 
