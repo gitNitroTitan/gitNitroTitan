@@ -33,10 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gitnitrotitan&theme=nightowl&show_icons=true&locale=en&layout=compact" alt="gitnitrotitan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitnitrotitan&theme=nightowl&show_icons=trues=true&locale=en" alt="gitnitrotitan" /></p>
 
 <h2> Some Programming Humor for you </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-  <footer><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitnitrotitan" alt="gitnitrotitan" /></a> </p></footer>
