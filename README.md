@@ -4,8 +4,6 @@
 
 <h1> Hello Fellow < Developers/ >!</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gitNitroTitan.gitNitroTitan)
-
 </p>
 <div size='20px'> Hi! My name is Jeremiah. Thank you for taking the time to view my gitHub profile :smile: 
 </div>
